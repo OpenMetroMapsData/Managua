@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<omm-file>
+<omm-file version="1.0.0">
   <stations>
     <station lat="12.081452" lon="-86.227885" name="10½"/>
     <station lat="12.160728" lon="-86.348436" name="15 de Julio"/>
